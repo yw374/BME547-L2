@@ -1,6 +1,12 @@
 Lecture2_Notes
 use mv to change file type/name/location: 
 	mv oldname newname/ mv name location(..)
+commit multiple files at the same time
+	add the file once a time, and use git commit
+git diff
+	automatically compare the current version with the last commit
+	git diff ¡ªstaged if the file is commited
+	git diff commit1ID..commit2ID: compare how two commits different
 
 Markdown
 	.md stands for markdown
