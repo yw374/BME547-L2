@@ -1,0 +1,3 @@
+Lecture2_Notes
+use mv to change file type/name/location: mv oldname newname/ mv name location(..)
+
